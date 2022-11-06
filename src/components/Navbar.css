@@ -1,0 +1,10 @@
+.navbar-main{
+    display: flex;
+    gap: 100px;
+    border: 1px solid black;
+    height: 70px;
+    width: 100%;
+    background-color: #ff6600;
+
+
+}
